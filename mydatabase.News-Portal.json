@@ -1,0 +1,261 @@
+[{
+  "_id": {
+    "$oid": "667a73d6d4c6e78025ef7c6f"
+  },
+  "//": "const",
+  "server": {
+    "js": "express"
+  }
+},
+{
+  "_id": {
+    "$oid": "667a73d6d4c6e78025ef7c70"
+  },
+  "//": "const",
+  "server": {
+    "js": "app"
+  }
+},
+{
+  "_id": {
+    "$oid": "667a73d6d4c6e78025ef7c71"
+  },
+  "//": "const",
+  "server": {
+    "js": "mongoose"
+  }
+},
+{
+  "_id": {
+    "$oid": "667a73d6d4c6e78025ef7c72"
+  },
+  "//": "const",
+  "server": {
+    "js": "bodyParser"
+  }
+},
+{
+  "_id": {
+    "$oid": "667a73d6d4c6e78025ef7c73"
+  }
+},
+{
+  "_id": {
+    "$oid": "667a73d6d4c6e78025ef7c74"
+  },
+  "//": "//",
+  "server": {
+    "js": "Connect"
+  }
+},
+{
+  "_id": {
+    "$oid": "667a73d6d4c6e78025ef7c75"
+  },
+  "//": "mongoose.connect('mongodb://localhost:27017/mydatabase',",
+  "server": {
+    "js": "{"
+  }
+},
+{
+  "_id": {
+    "$oid": "667a73d6d4c6e78025ef7c76"
+  }
+},
+{
+  "_id": {
+    "$oid": "667a73d6d4c6e78025ef7c77"
+  },
+  "//": "//",
+  "server": {
+    "js": "Define"
+  }
+},
+{
+  "_id": {
+    "$oid": "667a73d6d4c6e78025ef7c78"
+  },
+  "//": "const",
+  "server": {
+    "js": "subscriberSchema"
+  }
+},
+{
+  "_id": {
+    "$oid": "667a73d6d4c6e78025ef7c79"
+  }
+},
+{
+  "_id": {
+    "$oid": "667a73d6d4c6e78025ef7c7a"
+  },
+  "//": "});"
+},
+{
+  "_id": {
+    "$oid": "667a73d6d4c6e78025ef7c7b"
+  }
+},
+{
+  "_id": {
+    "$oid": "667a73d6d4c6e78025ef7c7c"
+  },
+  "//": "//",
+  "server": {
+    "js": "Create"
+  }
+},
+{
+  "_id": {
+    "$oid": "667a73d6d4c6e78025ef7c7d"
+  },
+  "//": "const",
+  "server": {
+    "js": "Subscriber"
+  }
+},
+{
+  "_id": {
+    "$oid": "667a73d6d4c6e78025ef7c7e"
+  }
+},
+{
+  "_id": {
+    "$oid": "667a73d6d4c6e78025ef7c7f"
+  },
+  "//": "//",
+  "server": {
+    "js": "Parse"
+  }
+},
+{
+  "_id": {
+    "$oid": "667a73d6d4c6e78025ef7c80"
+  },
+  "//": "app.use(bodyParser.urlencoded({",
+  "server": {
+    "js": "extended:"
+  }
+},
+{
+  "_id": {
+    "$oid": "667a73d6d4c6e78025ef7c81"
+  }
+},
+{
+  "_id": {
+    "$oid": "667a73d6d4c6e78025ef7c82"
+  },
+  "//": "//",
+  "server": {
+    "js": "Create"
+  }
+},
+{
+  "_id": {
+    "$oid": "667a73d6d4c6e78025ef7c83"
+  },
+  "//": "app.post('/subscribe',",
+  "server": {
+    "js": "(req,"
+  }
+},
+{
+  "_id": {
+    "$oid": "667a73d6d4c6e78025ef7c84"
+  }
+},
+{
+  "_id": {
+    "$oid": "667a73d6d4c6e78025ef7c85"
+  }
+},
+{
+  "_id": {
+    "$oid": "667a73d6d4c6e78025ef7c86"
+  }
+},
+{
+  "_id": {
+    "$oid": "667a73d6d4c6e78025ef7c87"
+  }
+},
+{
+  "_id": {
+    "$oid": "667a73d6d4c6e78025ef7c88"
+  }
+},
+{
+  "_id": {
+    "$oid": "667a73d6d4c6e78025ef7c89"
+  }
+},
+{
+  "_id": {
+    "$oid": "667a73d6d4c6e78025ef7c8a"
+  }
+},
+{
+  "_id": {
+    "$oid": "667a73d6d4c6e78025ef7c8b"
+  }
+},
+{
+  "_id": {
+    "$oid": "667a73d6d4c6e78025ef7c8c"
+  }
+},
+{
+  "_id": {
+    "$oid": "667a73d6d4c6e78025ef7c8d"
+  }
+},
+{
+  "_id": {
+    "$oid": "667a73d6d4c6e78025ef7c8e"
+  },
+  "//": "});"
+},
+{
+  "_id": {
+    "$oid": "667a73d6d4c6e78025ef7c8f"
+  }
+},
+{
+  "_id": {
+    "$oid": "667a73d6d4c6e78025ef7c90"
+  },
+  "//": "//",
+  "server": {
+    "js": "Start"
+  }
+},
+{
+  "_id": {
+    "$oid": "667a73d6d4c6e78025ef7c91"
+  },
+  "//": "const",
+  "server": {
+    "js": "port"
+  }
+},
+{
+  "_id": {
+    "$oid": "667a73d6d4c6e78025ef7c92"
+  },
+  "//": "app.listen(port,",
+  "server": {
+    "js": "()"
+  }
+},
+{
+  "_id": {
+    "$oid": "667a73d6d4c6e78025ef7c93"
+  }
+},
+{
+  "_id": {
+    "$oid": "667a73d6d4c6e78025ef7c94"
+  },
+  "//": "});"
+}]
